@@ -1,3 +1,3 @@
 Package: *
-Pin: origin apt.withmojo.com
+Pin: release n=local
 Pin-Priority: 1001
