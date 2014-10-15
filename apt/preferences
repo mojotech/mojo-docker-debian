@@ -1,3 +1,11 @@
 Package: *
 Pin: release n=wheezy-backports
 Pin-Priority: 1
+
+Package: *
+Pin: release n=jessie
+Pin-Priority: -1
+
+Package: *
+Pin: release n=sid
+Pin-Priority: -1
